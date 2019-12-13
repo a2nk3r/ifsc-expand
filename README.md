@@ -4,6 +4,12 @@ A Python package to get bank branch details from Indian Financial System Code(IF
 
 ## Usage
 
+To install:
+
+```
+pip install ifsc-expand
+```
+
 The following query on terminal will provide you the bank branch details of the bank with IFSC 'ifsc'.
 
 ```
