@@ -15,3 +15,6 @@ The following query on terminal will provide you the bank branch details of the 
 ```
 ifsc-expand -i BKID0004792
 ```
+
+
+Not updating it anymore!
