@@ -5,7 +5,7 @@ A Python package to get bank branch details from Indian Financial System Code(IF
 ## Usage
 
 To install:
-
+Steps:
 ```
 pip install ifsc-expand
 ```
